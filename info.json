@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "ee4d8c21b057c46046bbf37bc43dc03e141e64a7",
+    "author": "Josep Pueyo-Ros <josep.pueyo@udg.edu>",
+    "time": "2023-05-05 13:08:10",
+    "files": 2,
+    "merge": false,
+    "message": "add downloads badge\n"
+  },
+  "repo": "https://github.com/ropensci/CRediTas",
+  "pkg": "CRediTas"
+}
