@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "b904e1da4736873e6061e6d7e75c371f6f60a000",
+    "author": "Josep Pueyo-Ros <jpueyo@icra.cat>",
+    "time": "2025-08-25T11:42:15Z",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number to 0.3.0.9000\n"
+  },
+  "repo": "https://github.com/ropensci/CRediTas",
+  "pkg": "CRediTas",
+  "time": "2026-08-30T07:36:25Z"
+}
